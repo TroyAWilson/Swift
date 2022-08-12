@@ -1,5 +1,5 @@
 # Swift
-
+### This repo is out of date see EdEon Gitlab or visit the [website](swift.sonoma.edu)
 Clone the repo
 
 ```
