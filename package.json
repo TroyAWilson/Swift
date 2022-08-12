@@ -1,0 +1,28 @@
+{
+  "name": "test-gat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "test-gat",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
+    "bootstrap": "^5.2.0",
+    "framer-motion": "^6.5.1",
+    "gatsby": "^4.19.2",
+    "mathjax-react": "^2.0.1",
+    "react": "^18.1.0",
+    "react-bootstrap": "^2.4.0",
+    "react-dom": "^18.1.0",
+    "react-responsive-carousel": "^3.2.23",
+    "react-vertical-timeline-component": "^3.5.2"
+  }
+}
